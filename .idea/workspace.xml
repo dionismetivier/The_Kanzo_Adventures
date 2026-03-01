@@ -6,12 +6,283 @@
   <component name="ChangeListManager">
     <list default="true" id="22f266db-96ed-4cd0-a131-944e27acbb1e" name="Changes" comment="Mi Primer Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/TXT/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/TXT/readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_01.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_02.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_03.unitypackage" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Images/craftpix-net-563568-free-wraith-tiny-style-2d-sprites.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/AI/Wraith_01.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/AI/Wraith_02.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/AI/Wraith_03.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Body.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Face 01.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Face 02.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Face 03.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Head.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Left Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Left Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Right Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Right Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_01/Wraith_01_Spells Effect.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Body.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Face 01.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Face 02.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Face 03.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Head.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Left Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Left Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Right Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Right Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_02/Wraith_02_Spells Effect.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Body.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Face 01.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Face 02.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Face 03.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Head.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Left Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Left Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Right Arm.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Right Hand.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/EPS/Wraith_03/Wraith_03_Spells Effect.eps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Attacking/Wraith_02_Attack_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Casting Spells/Wraith_02_Casting Spells_017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Dying/Wraith_02_Dying_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Hurt/Wraith_02_Hurt_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle Blink/Wraith_02_Idle Blinking_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Idle/Wraith_02_Idle_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Taunt/Wraith_02_Taunt_017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/PNG Sequences/Walking/Wraith_02_Moving Forward_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Animations.scml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Face 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Face 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Face 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Left Arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Left Hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Right Arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Right Hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_02/Vector Parts/Spells Effect.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Attacking/Wraith_03_Attack_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Casting Spells/Wraith_03_Casting Spells_017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Dying/Wraith_03_Dying_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Hurt/Wraith_03_Hurt_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle Blink/Wraith_03_Idle Blinking_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Idle/Wraith_03_Idle_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Taunt/Wraith_03_Taunt_017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/PNG Sequences/Walking/Wraith_03_Moving Forward_011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Animations.scml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Body.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Face 01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Face 02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Face 03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Left Arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Left Hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Right Arm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Right Hand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/PNG/Wraith_03/Vector Parts/Spells-Effect.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +414,7 @@
       <updated>1772230663194</updated>
       <workItem from="1772230664315" duration="30532000" />
       <workItem from="1772336819895" duration="2166000" />
-      <workItem from="1772339199647" duration="13650000" />
+      <workItem from="1772339199647" duration="15099000" />
     </task>
     <task id="LOCAL-00001" summary="Mi Primer Commit">
       <option name="closed" value="true" />
@@ -241,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772393863981</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Mi Primer Commit">
+      <option name="closed" value="true" />
+      <created>1772394616653</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1772394616653</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
