@@ -2,7 +2,10 @@ import pygame
 from pygame.transform import scale
 import constantes
 from personaje  import Personaje
-from Sword import Sword
+import os
+
+#Funciones:
+#Escalar imagen
 
 pygame.init()
 ventana = pygame.display.set_mode((constantes.ANCHO_VENTANA,
@@ -15,6 +18,8 @@ def escalar_img (image, scale):
     nueva_imagen = pygame.transform.scale(image, (w*scale, h*scale))
     return nueva_imagen
 
+
+
 #Importar imagenes
 #Personaje
 animaciones = []
@@ -23,15 +28,9 @@ for i in range (12):
     img = escalar_img(img, constantes.ESCALA_PERSONAJE)
     animaciones.append(img)
 
-#Arma
-imagen_Espada = pygame.image.load(f"Assets/Images/PNG/Weapons/Sword.png").convert_alpha()
-imagen_Espada = escalar_img(imagen_Espada, constantes.ESCALA_ARMA)
 
 #Crear un Jugador de la clase Personaje
 jugador = Personaje(50,50, animaciones)
-
-#Crear un arma de la clase Sword
-Espada = Sword(imagen_Espada)
 
 #definir las variables de movimientos del jugador
 
@@ -74,31 +73,19 @@ while run:
     # Actualiza Estado del Jugador
     jugador.update()
 
-    #Actualiza Estado del Arma
-    Espada.update(jugador)
 
-    if Espada.disparar == True:
-     print ("Atacando")
 
     #Dibujar el Jugador
     jugador.dibujar(ventana)
 
-    #Dibujar el Arma
-    Espada.dibujar(ventana)
+
 
     for event in pygame.event.get():
 
         if event.type == pygame.QUIT:
             run = False
 
-        #Accion para cuando presione el mouse ataque
-        if event.type == pygame.MOUSEBUTTONDOWN:
-            if event.button == 1:
-                Espada.iniciar_ataque()
-                Espada.disparar = True
-        if event.type == pygame.MOUSEBUTTONUP:
-            if event.button == 1:
-                 Espada.disparar = False
+
 
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_a:
