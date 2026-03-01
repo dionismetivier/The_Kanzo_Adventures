@@ -78,7 +78,7 @@ while run:
     Espada.update(jugador)
 
     if Espada.disparar == True:
-       print ("Atacando")
+     print ("Atacando")
 
     #Dibujar el Jugador
     jugador.dibujar(ventana)
