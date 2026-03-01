@@ -11,14 +11,28 @@ class Sword():
 
         self.disparar = False
 
+        self.atacando = False
+        self.tiempo_ataque = 0
+        self.angulo_extra = 0
+
 
     def update(self, personaje):
         self.forma.center = personaje.forma.center
-        if personaje.flip == False:
-           self.forma.x = self.forma.x =+ personaje.forma.width/8
+        actual = pygame.time.get_ticks()
+
+        if self.atacando:
+           tiempo_pasado = actual - self.tiempo_ataque
+           if tiempo_pasado > constantes.VELOCIDAD_ATAQUE:
+               self.atacando = False
+               self.angulo_extra = 0
+           else:
+               progreso = tiempo_pasado/ constantes.VELOCIDAD_ATAQUE
+               self.angulo_extra = progreso * 150
+
+           self.forma.x = self.forma.x + personaje.forma.width/8
            self.rotar_arma(False)
         if personaje.flip == True:
-           self.forma.x = self.forma.x =- personaje.forma.width / 8
+           self.forma.x = self.forma.x - personaje.forma.width / 8
            self.rotar_arma(True)
 
         #Mover la pistola con el mouse
@@ -47,3 +61,8 @@ class Sword():
     def dibujar(self, interfaz):
         interfaz.blit(self.imagen, self.forma)
         #pygame.draw.rect(interfaz, constantes.COLOR_ARMA, self.forma, 1)
+
+    def iniciar_ataque(self):
+        if not self.atacando:
+            self.atacando = True
+            self.tiempo_ataque = pygame.time.get_ticks()

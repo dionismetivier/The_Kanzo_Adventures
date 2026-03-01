@@ -94,6 +94,7 @@ while run:
         #Accion para cuando presione el mouse ataque
         if event.type == pygame.MOUSEBUTTONDOWN:
             if event.button == 1:
+                Espada.iniciar_ataque()
                 Espada.disparar = True
         if event.type == pygame.MOUSEBUTTONUP:
             if event.button == 1:
