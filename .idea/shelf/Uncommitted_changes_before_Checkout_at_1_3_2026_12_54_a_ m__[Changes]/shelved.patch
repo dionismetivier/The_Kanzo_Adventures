@@ -1,0 +1,12 @@
+Index: requirements.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>pygame~=2.6.1
+===================================================================
+diff --git a/requirements.txt b/requirements.txt
+--- a/requirements.txt	(revision 87f86605da44205432becfb69e611c11cf97a83c)
++++ b/requirements.txt	(date 1772340732321)
+@@ -1,1 +1,1 @@
+-pygame~=2.6.1
+\ No newline at end of file
++pygame~=2.6.1
