@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22f266db-96ed-4cd0-a131-944e27acbb1e" name="Changes" comment="Mi Primer Commit">
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/TXT/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/TXT/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_01.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_02.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Unity Package/Wraith_03.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/craftpix-net-563568-free-wraith-tiny-style-2d-sprites.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +143,7 @@
       <updated>1772230663194</updated>
       <workItem from="1772230664315" duration="30532000" />
       <workItem from="1772336819895" duration="2166000" />
-      <workItem from="1772339199647" duration="12867000" />
+      <workItem from="1772339199647" duration="13650000" />
     </task>
     <task id="LOCAL-00001" summary="Mi Primer Commit">
       <option name="closed" value="true" />
@@ -227,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772393328019</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Mi Primer Commit">
+      <option name="closed" value="true" />
+      <created>1772393863981</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772393863981</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
