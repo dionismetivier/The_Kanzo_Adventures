@@ -57,6 +57,7 @@ while run:
     delta_x = 0
     delta_y = 0
 
+
     if mover_derecha == True:
         delta_x = constantes.VELOCIDAD
     if mover_izquierda == True:
@@ -76,6 +77,9 @@ while run:
     #Actualiza Estado del Arma
     Espada.update(jugador)
 
+    if Espada.disparar == True:
+       print ("Atacando")
+
     #Dibujar el Jugador
     jugador.dibujar(ventana)
 
@@ -86,6 +90,14 @@ while run:
 
         if event.type == pygame.QUIT:
             run = False
+
+        #Accion para cuando presione el mouse ataque
+        if event.type == pygame.MOUSEBUTTONDOWN:
+            if event.button == 1:
+                Espada.disparar = True
+        if event.type == pygame.MOUSEBUTTONUP:
+            if event.button == 1:
+                 Espada.disparar = False
 
         if event.type == pygame.KEYDOWN:
             if event.key == pygame.K_a:

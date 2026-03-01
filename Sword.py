@@ -9,14 +9,16 @@ class Sword():
         self.angulo = 0
         self.forma = self.imagen.get_rect()
 
+        self.disparar = False
+
 
     def update(self, personaje):
         self.forma.center = personaje.forma.center
         if personaje.flip == False:
-           self.forma.x = self.forma.x + personaje.forma.width/8
+           self.forma.x = self.forma.x =+ personaje.forma.width/8
            self.rotar_arma(False)
         if personaje.flip == True:
-           self.forma.x = self.forma.x - personaje.forma.width / 8
+           self.forma.x = self.forma.x =- personaje.forma.width / 8
            self.rotar_arma(True)
 
         #Mover la pistola con el mouse
@@ -28,6 +30,9 @@ class Sword():
 
         self.rotar_arma(personaje.flip)
 
+        self.forma = self.imagen.get_rect()
+        self.forma.center = personaje.forma.center
+
     def rotar_arma(self, rotar):
             if rotar == True:
                 imagen_flip = pygame.transform.flip(self.imagen_original,
@@ -37,6 +42,7 @@ class Sword():
                 imagen_flip = pygame.transform.flip(self.imagen_original,
                                                     False, False)
                 self.imagen = pygame.transform.rotate(imagen_flip, self.angulo)
+
 
     def dibujar(self, interfaz):
         interfaz.blit(self.imagen, self.forma)
